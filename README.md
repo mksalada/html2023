@@ -1,2 +1,2 @@
-# About *tinasalada.github.io*
-**Theme/template:** [HackerThemes](https://github.com/HackerThemes/)' *Neon Glow*
+# Tina Salada's GitHub Pages
+- [ACSC Website](https://tinasalada.github.io/acsc)
